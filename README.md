@@ -1,6 +1,6 @@
 # Online Cab Reservation System
 
-This project models an **Online Cab Reservation System** using a **Star Schema** for Dimensional Modeling. The database design focuses on analyzing reservations, driver performance, customer data, and more. The system is implemented in **MySQL** or **Oracle**.
+This project models an **Online Cab Reservation System** using a **Star Schema** for Dimensional Modeling. The database design focuses on analyzing reservations, driver performance, customer data, and more. The system is implemented in **MySQL**.
 
 ## Table of Contents
 - [ER Diagram](#er-diagram)
